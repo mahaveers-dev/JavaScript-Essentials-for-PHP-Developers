@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <script src="episode-06.js"></script>
+    <script src="episode-08.js"></script>
 </body>
 
 </html>
